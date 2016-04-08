@@ -1,1 +1,0 @@
-c:\users\user\documents\visual studio 2013\Projects\Oblig_ClienteServidor\Oblig_ClienteServidor\bin\Debug\Oblig_ClienteServidor.exe.config

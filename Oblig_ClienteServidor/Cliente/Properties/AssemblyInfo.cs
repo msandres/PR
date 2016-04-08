@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general sobre un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos atributos para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("Oblig_ClienteServidor")]
+[assembly: AssemblyTitle("Cliente")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("Oblig_ClienteServidor")]
+[assembly: AssemblyProduct("Cliente")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como identificador de typelib si este proyecto se expone a COM
-[assembly: Guid("6c0d55d6-5675-4403-b52e-794d25096f8e")]
+[assembly: Guid("1647b1d9-54f3-4334-99ad-7e71be302130")]
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //

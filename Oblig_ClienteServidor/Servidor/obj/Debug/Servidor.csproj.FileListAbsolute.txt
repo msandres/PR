@@ -1,0 +1,1 @@
+C:\Repos\PR\Oblig_ClienteServidor\Servidor\bin\Debug\Servidor.exe.config
