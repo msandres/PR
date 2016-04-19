@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Comun
 {
-    public delegate void MessageRecievedDel(int cmd, byte[] data);
+    public delegate void MessageReceivedDel(int cmd, byte[] data);
     public delegate void DisconnectDel();
 
 
@@ -26,7 +26,7 @@ namespace Comun
 
         private const int BufferLength = 1024;
         private Socket _Socket;
-        public event MessageRecievedDel MessageRecived;
+        public event MessageReceivedDel MessageRecived;
         public event DisconnectDel Disconnected;
 
         public SocketManager(IPAddress serverIP, int Port)
